@@ -197,7 +197,6 @@ img {
 @media(max-width: 780px) {
     .header .container {
         flex-direction: column;
-        border: 1px dashed pink;
         text-align: center;
         justify-content: space-between;
     }
